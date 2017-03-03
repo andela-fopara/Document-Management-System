@@ -1,4 +1,7 @@
 .DS_Store
 node_modules
-client/lib
+client/js/lib
+client/styles/lib
 server/lib
+build/
+.vscode
