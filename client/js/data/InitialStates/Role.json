@@ -1,0 +1,5 @@
+{
+    "id": null,
+    "name": null,
+    "priviledges": null //array of actions associated with role
+}
